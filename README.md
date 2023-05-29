@@ -3,7 +3,7 @@ A list of machine learning frameworks, libraries and software.  If you want to c
 
 Further resources:
 
-For a list of free machine learning books available for download, go [here]([https://pages.github.com/](https://github.com/SBwho/EverythingAbout-Machine-Learning/blob/main/books.md))..
+For a list of free machine learning books available for download, go [here](https://github.com/SBwho/EverythingAbout-Machine-Learning/blob/main/books.md).
 
 For a list of professional machine learning events, go here.
 
