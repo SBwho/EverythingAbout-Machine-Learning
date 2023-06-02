@@ -5,7 +5,7 @@ Further resources:
 
 For a list of free machine learning books available for download, go [here](https://github.com/SBwho/EverythingAbout-Machine-Learning/blob/main/books.md).
 
-For a list of professional machine learning events, go here.
+For a list of professional machine learning events, go [here](https://github.com/SBwho/EverythingAbout-Machine-Learning/blob/main/events.md).
 
 For a list of (mostly) free machine learning courses available online, go here.
 
