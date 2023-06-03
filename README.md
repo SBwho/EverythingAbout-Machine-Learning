@@ -7,8 +7,31 @@ For a list of free machine learning books available for download, go [here](http
 
 For a list of professional machine learning events, go [here](https://github.com/SBwho/EverythingAbout-Machine-Learning/blob/main/events.md).
 
-For a list of (mostly) free machine learning courses available online, go here.
+For a list of (mostly) free machine learning courses available online, go [here](https://github.com/SBwho/EverythingAbout-Machine-Learning/blob/main/courses.md).
 
-For a list of blogs and newsletters on data science and machine learning, go here.
+For a list of blogs and newsletters on data science and machine learning, go [here](https://github.com/SBwho/EverythingAbout-Machine-Learning/blob/main/blogs.md).
 
-For a list of free-to-attend meetups and local events, go here.
+Table of Contents	
+------------------------------------------------------------
+Frameworks and Libraries
+  - Python 
+    - Computer Vision
+    - Natural Language Processing
+    - General-Purpose Machine Learning
+    - Data Analysis / Data Visualization
+    - Misc Scripts / iPython Notebooks / Codebases
+    - Neural Networks
+    - Survival Analysis
+    - Federated Learning
+    - Kaggle Competition Source Code
+    - Reinforcement Learning
+- R
+  - General-Purpose Machine Learning
+  - Data Analysis / Data Visualization
+ 
+- Tools
+  - Neural Networks
+  - Misc
+ 
+
+
