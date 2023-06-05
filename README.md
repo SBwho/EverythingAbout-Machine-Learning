@@ -15,7 +15,7 @@ Table of Contents
 ------------------------------------------------------------
 Frameworks and Libraries
   - Python 
-    - Computer Vision
+    - [Computer Vision](https://github.com/SBwho/EverythingAbout-Machine-Learning/edit/main/README.md#computer-vision)
     - Natural Language Processing
     - General-Purpose Machine Learning
     - Data Analysis / Data Visualization
@@ -33,5 +33,7 @@ Frameworks and Libraries
   - Neural Networks
   - Misc
  
-
-
+ ------------------------------------------------------------
+# Pthon
+ ------------------------------------------------------------
+  -
